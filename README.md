@@ -346,7 +346,7 @@ or you can run `git pull` from the Terminal tab. Once you have done the pull, yo
 your local repository.
 
 ---
-# Extra Exercises
+# Extra Exercises *let's see changes
 
 If you have time, you can try out these extra exercises to get more practice.
 
